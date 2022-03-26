@@ -4,6 +4,12 @@ namespace Assets.Scripts.Programming_Skills
 {
     public class NumberOfOneBits : MonoBehaviour
     {
+
+        public void Start()
+        {
+            HammingWeight(0);
+        }
+        
         //https://leetcode.com/problems/number-of-1-bits/
         public int HammingWeight(uint n) 
         {
