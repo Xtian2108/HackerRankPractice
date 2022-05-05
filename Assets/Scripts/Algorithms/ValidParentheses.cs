@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ValidParentheses : MonoBehaviour
 {
+    //LEET CODE LINK: https://leetcode.com/problems/valid-parentheses/
     public bool IsValid(string s) {
             if (s == null || s == string.Empty)
                 return true;
