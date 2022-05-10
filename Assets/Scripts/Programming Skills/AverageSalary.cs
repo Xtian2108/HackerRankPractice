@@ -6,6 +6,8 @@ namespace Assets.Scripts.Programming_Skills
     public class AverageSalary : MonoBehaviour
     {
         
+        //LINK: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+        
         /// <summary>
         /// MY WAY
         /// </summary>
