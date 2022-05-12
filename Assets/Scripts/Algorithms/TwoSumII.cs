@@ -5,7 +5,7 @@ namespace Assets.Scripts._2D_Array___DS
 {
     public class TwoSumII : MonoBehaviour
     {
-        
+        //Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
         /// <summary>
         /// MY WAY THAT ITS SLOWER FOR BIG AMOUNT OF NUMBERS
         /// </summary>
